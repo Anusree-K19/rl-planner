@@ -222,3 +222,7 @@ __marimo__/
 # Fast Downward planner output
 sas_plan*
 output.sas
+
+# Fast Downward planner output
+sas_plan*
+output.sas
