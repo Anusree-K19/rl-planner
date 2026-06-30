@@ -1,0 +1,47 @@
+{
+  "rows": [
+    {
+      "problem": "p1_stack2.pddl",
+      "before_status": "unsolvable",
+      "before_length": 0,
+      "before_runtime": 0.931,
+      "after_status": "solved",
+      "after_length": 1,
+      "after_runtime": 0.765,
+      "uses_learned": true
+    },
+    {
+      "problem": "p2_tower3.pddl",
+      "before_status": "unsolvable",
+      "before_length": 0,
+      "before_runtime": 1.262,
+      "after_status": "unsolvable",
+      "after_length": 0,
+      "after_runtime": 0.576,
+      "uses_learned": false
+    },
+    {
+      "problem": "p3_unstack3.pddl",
+      "before_status": "solved",
+      "before_length": 4,
+      "before_runtime": 0.597,
+      "after_status": "solved",
+      "after_length": 4,
+      "after_runtime": 0.604,
+      "uses_learned": false
+    },
+    {
+      "problem": "p4_tower4.pddl",
+      "before_status": "unsolvable",
+      "before_length": 0,
+      "before_runtime": 0.64,
+      "after_status": "unsolvable",
+      "after_length": 0,
+      "after_runtime": 0.676,
+      "uses_learned": false
+    }
+  ],
+  "before_solved": 1,
+  "after_solved": 2,
+  "total": 4
+}
