@@ -1,0 +1,62 @@
+{
+  "before": [
+    {
+      "problem": "p1_stack2",
+      "status": "unsolvable",
+      "length": null,
+      "runtime": 0.927,
+      "uses_bridge": false
+    },
+    {
+      "problem": "p2_tower3",
+      "status": "unsolvable",
+      "length": null,
+      "runtime": 0.807,
+      "uses_bridge": false
+    },
+    {
+      "problem": "p3_unstack3",
+      "status": "solved",
+      "length": 4,
+      "runtime": 0.868,
+      "uses_bridge": false
+    },
+    {
+      "problem": "p4_tower4",
+      "status": "unsolvable",
+      "length": null,
+      "runtime": 0.798,
+      "uses_bridge": false
+    }
+  ],
+  "after": [
+    {
+      "problem": "p1_stack2",
+      "status": "solved",
+      "length": 1,
+      "runtime": 0.738,
+      "uses_bridge": true
+    },
+    {
+      "problem": "p2_tower3",
+      "status": "solved",
+      "length": 2,
+      "runtime": 0.725,
+      "uses_bridge": true
+    },
+    {
+      "problem": "p3_unstack3",
+      "status": "solved",
+      "length": 4,
+      "runtime": 0.841,
+      "uses_bridge": false
+    },
+    {
+      "problem": "p4_tower4",
+      "status": "solved",
+      "length": 3,
+      "runtime": 0.805,
+      "uses_bridge": true
+    }
+  ]
+}

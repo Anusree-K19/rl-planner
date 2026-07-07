@@ -1,0 +1,42 @@
+{
+  "total": 4,
+  "levels": [
+    {
+      "level": "complete",
+      "removed": 0,
+      "removed_actions": [],
+      "solved": 4,
+      "avg_runtime": 0.7983
+    },
+    {
+      "level": "slight",
+      "removed": 1,
+      "removed_actions": [
+        "stack"
+      ],
+      "solved": 1,
+      "avg_runtime": 0.6848
+    },
+    {
+      "level": "moderate",
+      "removed": 2,
+      "removed_actions": [
+        "stack",
+        "unstack"
+      ],
+      "solved": 0,
+      "avg_runtime": 0.7058
+    },
+    {
+      "level": "severe",
+      "removed": 3,
+      "removed_actions": [
+        "stack",
+        "unstack",
+        "pick-up"
+      ],
+      "solved": 0,
+      "avg_runtime": 0.6896
+    }
+  ]
+}
