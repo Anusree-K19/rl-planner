@@ -1,0 +1,7 @@
+(define (problem d4_disassemble4)
+  (:domain blocksworld)
+  (:objects a b c d)
+  (:init (on a b) (on b c) (on c d) (ontable d)
+         (clear a)
+         (handempty))
+  (:goal (and (ontable a) (ontable b) (ontable c) (ontable d))))

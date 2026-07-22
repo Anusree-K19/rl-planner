@@ -1,0 +1,7 @@
+(define (problem t4_tower4)
+  (:domain blocksworld)
+  (:objects a b c d)
+  (:init (ontable a) (ontable b) (ontable c) (ontable d)
+         (clear a) (clear b) (clear c) (clear d)
+         (handempty))
+  (:goal (and (on a b) (on b c) (on c d))))
